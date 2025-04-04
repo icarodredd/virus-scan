@@ -3,7 +3,7 @@ import Button from 'primevue/button'
 </script>
 
 <template>
-  <h1>oi</h1>
+  <h1 class="text-center text-4xl mt-10">VirusScan</h1>
   <Button>Opa</Button>
 </template>
 
